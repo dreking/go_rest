@@ -5,9 +5,8 @@ Event Booking API is a simple API for booking events. It is built with Go, Gin a
 # Installation
 
 1. Clone the repository
-2. Run `go build`
-3. Run `go run .` or `go run main.go`
-4. The server will be running on port 8080
+2. Run `go run ./cmd/main.go` or `go run main.go`
+3. The server will be running on port 8080
 
 # Usage
 
